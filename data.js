@@ -35,7 +35,6 @@ const PRODUCTS = [
 
   /* OPCIONALES (escalables) */
   { id:13, category:'ipad',    name:'iPad Pro 12.9" M2',                  desc:'Wi-Fi + 5G · 256GB · Space Gray · Compatible con Pencil',      price:699,  oldPrice:1199, condition:'A+', image:'https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?q=80&w=400&auto=format&fit=crop', wallapop:'https://es.wallapop.com' },
-  { id:14, category:'videojuego', name:'Gran Turismo 7 (PS5)',           desc:'Edición estándar · Caja original · Estado impecable',            price:39,   oldPrice:59,   condition:'A',  image:'https://images.unsplash.com/photo-1605901309584-818e25960b8f?q=80&w=400&auto=format&fit=crop', wallapop:'https://es.wallapop.com' },
   { id:15, category:'gafas',  name:'Gafas Ray-Ban Meta',                     desc:'Smart glasses · Como nuevas · Cargador y accesorios',             price:149,  oldPrice:249,  condition:'A+', image:'https://images.unsplash.com/photo-1572635196237-14b3f281503f?q=80&w=400&auto=format&fit=crop', wallapop:'https://es.wallapop.com' },
   { id:16, category:'camara',  name:'GoPro HERO12 Black',                 desc:'Accesorios incluidos · Estabilización · Ideal para contenido', price:329,  oldPrice:449,  condition:'A',  image:'https://images.unsplash.com/photo-1565330364379-cb4958ce712a?q=80&w=400&auto=format&fit=crop', wallapop:'https://es.wallapop.com' },
 ];
