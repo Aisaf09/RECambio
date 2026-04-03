@@ -1764,3 +1764,8 @@ select option { background: var(--bg-2); color: var(--text); }
   .contact-grid   { grid-template-columns: 1fr; }
   .sell-cta-inner { padding: 32px 24px; }
 }
+
+.hero-visual-img {
+    opacity: 1 !important;
+    transform: none !important;
+}
