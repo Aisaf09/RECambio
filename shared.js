@@ -16,7 +16,7 @@ const NAV_HTML = `
 <nav id="navbar">
   <div class="nav-inner">
     <a href="index.html" class="nav-logo" aria-label="RECambio">
-      <img src="logo-recambio-sin.png" alt="RECambio" class="nav-logo-img" loading="eager" />
+      <img src="logo-RECambio-sin.png" alt="Logo RECambio" class="nav-logo-img">
     </a>
     <ul class="nav-links">
       <li><a href="index.html"     class="nav-link" data-page="index">Inicio</a></li>
